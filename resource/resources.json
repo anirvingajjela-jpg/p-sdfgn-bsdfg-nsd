@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "name": "Food Bank of Delaware",
+        "description": "The Food Bank of Delaware provides nutritious foods to Delawareans in need and facilitates long-term solutions to problems of hunger and poverty through community education and advocacy.",
+        "tags": ["service", "food"],
+        "location": "222 Lake Dr, Newark, DE 19702",
+        "url": "https://www.fbd.org",
+        "image": "https://images.unsplash.com/photo-1593113598332-cd288d649433?w=800"
+    },
+    {
+        "id": 1,
+        "name": "The Grand Opera House",
+        "description": "A pillar of the Wilmington arts community for over 140 years, The Grand presents more than 100 live performances per year, ranging from symphony orchestras to contemporary comedy.",
+        "tags": ["arts", "events"],
+        "location": "818 N Market St, Wilmington, DE 19801",
+        "url": "https://www.thegrandwilmington.org",
+        "image": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?w=800"
+    }
+]
